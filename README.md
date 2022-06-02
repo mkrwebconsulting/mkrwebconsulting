@@ -9,7 +9,6 @@ I've been designing Websites since 2017. I started with Wordpress and moved late
 * 🌍  I'm based in Mannheim, Germany
 * 🖥️  See my portfolio at [My Homepage](http://www.mkrwebconsulting.de/)
 * ✉️  You can contact me at [isaak@mkrwebconsulting.de](mailto:isaak@mkrwebconsulting.de)
-* 🧠  I'm learning React, Vue.js
 * 🤝  I'm open to collaborating on on visually demanding Websites and Platforms
 * ⚡  I have an sports statistics addiction
 
