@@ -4,7 +4,7 @@ Hi 👋 My name is Isaak M.
 👨‍💻 Webdeveloper
 ------------------
 
-I've been designing Websites since 2017. I started with Wordpress and moved later to Webflow. Currently I'm transforming myself into a "Visual Frontend Developer :)
+I've been designing Websites since 2017. I started with Wordpress and Woocommerce and later switched to **Webflow** and **Shopify**. Currently I'm working at **[AWESOME! Software GmbH]**(https://awesome-software.de/) as a **Frontend Developer**, mainly working with **React** and **Vue.js**. Besides my main job, I'm open for collaborating on smaller projects. See my Portfolio for my works in the past.
 
 * 🌍  I'm based in Mannheim, Germany
 * 🖥️  See my portfolio at [My Homepage](http://www.mkrwebconsulting.de/)
