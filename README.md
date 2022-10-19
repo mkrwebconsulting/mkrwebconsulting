@@ -44,6 +44,4 @@ I've been designing and developing Websites since 2017. I started with Wordpress
 
 <a href="https://github.com/mkrwebconsulting" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrwebconsulting&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/mkrwebconsulting/reactshowcase_isaakm" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mkrwebconsulting&repo=reactshowcase_isaakm&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
