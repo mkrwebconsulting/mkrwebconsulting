@@ -4,7 +4,7 @@ Hi 👋 My name is Isaak M.
 👨‍💻 Freelance Frontend Webdeveloper
 ------------------
 
-I've been designing and developing Websites since 2017. Currently I'm working at Schwarz Dienstleistungen as a **Requirements Engineer for Webportals**. Besides my main job, I'm open for collaborating on smaller projects. See my Portfolio for my works in the past.
+I've been designing and developing Websites since 2017. Currently I'm working at Schwarz IT KG as a **Requirements Engineer for Webportals**. Besides my main job, I'm open for collaborating on smaller projects. See my Portfolio for my works in the past.
 
 * 🌍  I'm based in Mannheim, Germany
 * 🖥️  See my portfolio at [My Homepage](http://www.mkrwebconsulting.de/)
