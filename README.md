@@ -14,12 +14,11 @@ I've been designing and developing Websites since 2017. Currently I'm working at
 ### Skills
 
 <p align="left">
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/anthropic.svg" width="36" height="36" alt="Claude" /></a>
-  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" width="36" height="36" alt="Gemini" /></a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="36" height="36" alt="OpenAI Codex" /></a>
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/anthropic.svg" width="36" height="36" alt="Claude" /></a>
-  <a href="https://www.shopware.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/shopware.svg" width="36" height="36" alt="Shopware" /></a>
-  <a href="https://www.intershop.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intershop.svg" width="36" height="36" alt="Intershop" /></a>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/anthropic.svg" width="36" height="36" alt="Claude" style="filter: brightness(0) invert(1);" /></a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" width="36" height="36" alt="Gemini" style="filter: brightness(0) invert(1);" /></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="36" height="36" alt="OpenAI Codex" style="filter: brightness(0) invert(1);" /></a>
+  <a href="https://www.shopware.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/shopware.svg" width="36" height="36" alt="Shopware" style="filter: brightness(0) invert(1);" /></a>
+  <a href="https://www.intershop.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_Intershop.svg" width="36" height="36" alt="Intershop" style="filter: brightness(0) invert(1);" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
