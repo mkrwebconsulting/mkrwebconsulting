@@ -17,8 +17,8 @@ I've been designing and developing Websites since 2017. Currently I'm working at
   <a href="https://claude.com/de/product/claude-code" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/anthropic.svg" width="36" height="36" alt="Claude"/></a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" width="36" height="36" alt="Gemini" /></a>
   <a href="https://chatgpt.com/codex/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="36" height="36" alt="OpenAI Codex" /></a>
+</p>
 
-  </p>
 ### Tools & Software
 
 <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/webflow.svg" width="36" height="36" alt="Webflow" /></a>
