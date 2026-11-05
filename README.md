@@ -32,11 +32,6 @@ I've been designing and developing Websites since 2017. Currently I'm working at
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" width="36" height="36" alt="Gemini" /></a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="36" height="36" alt="OpenAI Codex" /></a>
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/anthropic.svg" width="36" height="36" alt="Claude" /></a>
-  <a href="https://www.shopware.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/shopware.svg" width="36" height="36" alt="Shopware" /></a>
-  <a href="https://www.intershop.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intershop.svg" width="36" height="36" alt="Intershop" /></a>
 </p>
 
 
